@@ -40,3 +40,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac turpis non tor
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac turpis non tortor vehicula dictum et auctor sem. Fusce neque libero, tempor eget semper ac, feugiat quis orci. Integer hendrerit sit amet lacus rutrum mattis. Fusce leo sem, efficitur non mauris non, ultrices viverra elit. Aliquam erat volutpat. Sed risus est, dignissim ut sapien vel, volutpat vehicula tellus. Donec vel arcu libero. Nam ut interdum leo, a auctor ligula. Phasellus tincidunt ex arcu, ac accumsan velit placerat in. Sed laoreet dignissim ultricies. Morbi egestas sollicitudin magna. Ut in lacus at magna fringilla sollicitudin sit amet id lacus.
 * [Data Science](https://github.com/JasonMDev/portfolio-datascience)
 * [Web Development](https://github.com/JasonMDev/portfolio-web-development)
+
+
+Ability to communicate
+Ability to collaborate with others
+Technical competence
+Ability to reason about data
+Motivation and ability to take initiative
