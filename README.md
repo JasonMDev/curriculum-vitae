@@ -34,9 +34,9 @@ I am currently looking for opportunities in Data Science, especially where my st
 | Good With             | Worked With             | Dabbled In           |
 | --------------------- | :---------------------: | :------------------: |
 | Python                | Machine Learning        | Kaggle Competitions  |
-| Pandas                | Linux and Command Line  | R                    |
+| SQL                   | Linux and Command Line  | R                    |
 | Jupyter NoteBook      | Data Visualization      | SciKit-Learn         |
-| NumPy                 | MatPlotLib              |                      |
+| Pandas and NumPy      | MatPlotLib              | AWS                  |
 | Predictive Analytics  | Data Manipulation       |                      |
 | Data Cleaning         | SciKit                  |                      |
 
