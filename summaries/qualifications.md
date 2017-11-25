@@ -1,17 +1,19 @@
-# SUMMARY OF THE SPECIFIC QULIFICATION
+# SUMMARY OF THE SPECIFIC QUALIFICATIONS
 
 ## DataQuest Data Analyst and Data Science Tracks
 This is a self-paced online course hosted by DataQuest Labs, inc. 
 The course includes the following:
+* Basic and intermediate programming concepts
 * Manipulate and analyze data
 * Make inferences and predictions from data.
 * Program in popular data science languages
 * Clean and visualize data
 * Make predictions use statistics and machine learning
 * Collaboration tools like git and SQL databases
+* Probability and statistics for data analysis
 
 
-Basic and intermediate programming concepts
+
 How to clean and visualize data
 Probability and statistics for data analysis
 Collaboration tools like git and SQL databases
