@@ -21,50 +21,43 @@ Completed the Dataquest.io certificates for Data Analyst and Data Science. Curre
 This is a portfolio of my work of all things related to Web Development:
 * [Web Development](https://github.com/JasonMDev/portfolio-web-development)
 
+
+
+Ability to communicate
+Ability to collaborate with others
+Technical competence
+Ability to reason about data
+Motivation and ability to take initiative
+
 ## SKILLS
-### Good With
-• Python
-• Pandas
-• SciKit
-• NumPy.
 
-### Worked With
-• Predictive Analytics
-• Machine Learning
+### Data Science Specific Skills
+| Good With             | Worked With             | Dabbled In           |
+| --------------------- | :---------------------: | :------------------: |
+| Python                | Machine Learning        | Kaggle Competitions  |
+| Pandas                | Linux and Command Line  | R                    |
+| SciKit                | Data Visualization      | SciKit-Learn         |
+| NumPy                 | MatPlotLib              |                      |
+| Predictive Analytics  | Data Manipulation       |                      |
+| Data Cleaning         |                         |                      |
 
-### Dabbled In
-• Kaggle Competitions
+### Web Development Specific Skills
+| Good With                                  | Worked With                       | Dabbled In |
+| ------------------------------------------ | :-------------------------------: | :--------: |
+| MVC Frameworks: Ruby on Rails              | APIs such as Google Maps          | AJAX       |
+| Web Technologies: HTML5, CSS3              | Test Driven Development           | Angular    |
+| Front-end framework: Bootstrap             | Behavior Driven Development       | JSON API   |
+| Version control: Git, GitHub and Bitbucket | Object-oriented Programming: RubY |            |
+| Deployment: Heroku and BitBalloon          |                                   |            |
 
-### Good With
-• MVC Frameworks: Ruby on Rails
-• Web Technologies: HTML5, CSS3
-• Front-end framework: Bootstrap
-• Version control: Git, GitHub and Bitbucket
-• Deployment: Heroku and BitBalloon
+## EXPERIENCE
+### Business Analyst
 
-### Worked With
-• Javascript / jQuery
-• APIs such as Google Maps
-• Linux and Command Line
-• Python
-• Test Driven Development
-• Behavior Driven Development
-• Object-oriented Programming: Ruby
+### Process Engineer
 
-### Dabbled In
-• AJAX
-• Angular
-• JSON API
+### Projects
 
 ## QUALIFICATIONS
-### PROFESSIONAL
-I have achived chartered status with the Institute of Chemical Egineering (IChemE) and The Engineering Council is the UK.
-
-| Level | Information | Issuing Authority | Year Achieved |
-| ------------- | :--------------: | :---------------: |:---: |
-| MIChemE  | [link](http://www.icheme.org/membership/member.aspx)        | [IChemE](http://www.icheme.org/)  | 2013 |
-| CEng  | [link](http://www.engc.org.uk/professional-registration/the-professional-titles/chartered-engineer/)        | [Engineering Council](http://www.engc.org.uk/)  | 2013 |
-
 ### CERTIFICATES
 I have completed a variety of certificates in a broad field including technology, finance and project managment. 
 
@@ -76,6 +69,14 @@ I have completed a variety of certificates in a broad field including technology
 | CIMA Certificate in Business Accounting   | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)       |  [CIMA Global](https://www.cimaglobal.com/Qualifications/cert-ba/) | 2013 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#cima-certificate-in-business-accounting-ba-cert) |
 | APMP: The APM Project Management Qualification    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/APMPCert.pdf)        |  [APM](https://www.apm.org.uk/qualifications-and-training/project-management-qualification/) | 2012 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#apmp-the-apm-project-management-qualification) |
 
+### PROFESSIONAL
+I have achieved chartered status with the Institute of Chemical Egineering (IChemE) and The Engineering Council is the UK.
+
+| Level | Information | Issuing Authority | Year Achieved |
+| ------------- | :--------------: | :---------------: |:---: |
+| MIChemE  | [link](http://www.icheme.org/membership/member.aspx)        | [IChemE](http://www.icheme.org/)  | 2013 |
+| CEng  | [link](http://www.engc.org.uk/professional-registration/the-professional-titles/chartered-engineer/)        | [Engineering Council](http://www.engc.org.uk/)  | 2013 |
+
 ## EDUCATION
 University level education graduating in 2006.
 
@@ -83,9 +84,3 @@ University level education graduating in 2006.
 | ------------- | :--------------: | :---------------: |:---: | :-----: |
 | BEng Chemical Engineering  | Pretoria, South Africa| [University of Pretoria](http://www.up.ac.za/chemical-engineering) | 02/2002-01/2006 |  [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#beng-chemical-engineering) |
 
-
-Ability to communicate
-Ability to collaborate with others
-Technical competence
-Ability to reason about data
-Motivation and ability to take initiative
