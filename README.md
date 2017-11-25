@@ -35,10 +35,10 @@ I am currently looking for opportunities in Data Science, especially where my st
 | --------------------- | :---------------------: | :------------------: |
 | Python                | Machine Learning        | Kaggle Competitions  |
 | Pandas                | Linux and Command Line  | R                    |
-| SciKit                | Data Visualization      | SciKit-Learn         |
+| Jupyter NoteBook      | Data Visualization      | SciKit-Learn         |
 | NumPy                 | MatPlotLib              |                      |
 | Predictive Analytics  | Data Manipulation       |                      |
-| Data Cleaning         |                         |                      |
+| Data Cleaning         | SciKit                  |                      |
 
 ### Web Development Specific Skills
 | Good With                                  | Worked With                       | Dabbled In |
