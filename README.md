@@ -56,24 +56,23 @@ This is a portfolio of my work of all things related to Web Development:
 • Angular
 • JSON API
 
-## QUALIFICATIONS
-### BEng Chemical Engineering [02/2002 -01/2006]
-This was a 4 year degree in chemical engineering including advanced numerical methods, calculus and statistics.
-* Location: Pretoria, South Africa
-* Period: from 02/2002 to 01/2006
-
 ## CERTIFICATES
-I have completed a variety of certificates in a broad field including technology, finance and project managment. Please table below:
+I have completed a variety of certificates in a broad field including technology, finance and project managment. 
 
 | Qualification | Certificate Link | Issuing Authority | Year | Summary |
 | ------------- | :--------------: | :---------------: |:---: | :-----: |
-| DQ Data Scientist Track  | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Scientist.pdf)        | [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 |  [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting) |
-| DQ Data Analyst Track    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Analyst.pdf)         |  [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting) |
-| CF Web Developer Certificate    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/CareerFoundry_Certificate_JASONMANS.pdf)         |  [CareerFoundry](https://careerfoundry.com/en/courses/become-a-web-developer) | 2016 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting) |
-| CIMA Certificate in Business Accounting   | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)       |  [CIMA Global](https://www.cimaglobal.com/Qualifications/cert-ba/) | 2013 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting) |
-| APMP: The APM Project Management Qualification    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/APMPCert.pdf)        |  [APM](https://www.apm.org.uk/qualifications-and-training/project-management-qualification/) | 2012 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting) |
+| DQ Data Scientist Track  | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Scientist.pdf)        | [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 |  [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#dataquest-data-analyst-and-data-science-tracks) |
+| DQ Data Analyst Track    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Analyst.pdf)         |  [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#dataquest-data-analyst-and-data-science-tracks) |
+| CF Web Developer Certificate    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/CareerFoundry_Certificate_JASONMANS.pdf)         |  [CareerFoundry](https://careerfoundry.com/en/courses/become-a-web-developer) | 2016 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#careerfoundry-web-developer-certificate) |
+| CIMA Certificate in Business Accounting   | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)       |  [CIMA Global](https://www.cimaglobal.com/Qualifications/cert-ba/) | 2013 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#cima-certificate-in-business-accounting-ba-cert) |
+| APMP: The APM Project Management Qualification    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/APMPCert.pdf)        |  [APM](https://www.apm.org.uk/qualifications-and-training/project-management-qualification/) | 2012 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#apmp-the-apm-project-management-qualification) |
 
+## QUALIFICATIONS
+I have achieved university level education.
 
+| Qualification | Location | Issuing Authority | Year | Summary |
+| ------------- | :--------------: | :---------------: |:---: | :-----: |
+| BEng Chemical Engineering  | Pretoria, South Africa| [University of Pretoria](http://www.up.ac.za/chemical-engineering) | 02/2002-01/2006 |  [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#beng-chemical-engineering) |
 
 
 Ability to communicate
