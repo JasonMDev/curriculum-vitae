@@ -14,7 +14,7 @@ I am currently looking for opportunities in Data Science, especially where my st
 ## EXPERIENCE
 ### KM Business Analyst
 * OCT 2017 - ongoing
-* A role within the Fluor Knowledge Mangement (KM) Team dedicated to Business Development and Data Analysis utilising the myriad and vast data generate by Fluor's knowledge communities. By aggregating various sources of data we can gain insights into the knowledge sharing behavious of the employees and use this information to foster and promote further knowledge growth.
+* A role within the Fluor Knowledge Mangement (KM) Team dedicated to Business Development and Data Analysis utilising the myriad and vast data generate by Fluor's knowledge communities. By aggregating various sources of data we can gain insights into the knowledge sharing behaviours of the employees and use this information to foster and promote further knowledge growth.
 * Cleaned up KM PaceSetter Data to dertermine an objective way of deciding the winners by looking at their forum activity, knowledge sharing, community engagement and network size. This is done to get an idea of the impact they have on others and the comapany as a whole regarding their contribution to the overall growth of the companies collective knowledge. 
 * Cleaned up Quality Day Survey Data to make it easier to group the responses by office location and discipline such that manager could make a clearer intepretation of the results.
 
