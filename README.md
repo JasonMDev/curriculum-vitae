@@ -70,8 +70,12 @@ I have completed a variety of certificates in a broad field including technology
 * [CIMA Certificate in Business Accounting](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)
 * [APMP: The APM Project Management Qualification](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/APMPCert.pdf)
 
+| Qualification | Certificate Link | Issuing Authority | Year | Summary |
+| -------------         |:-------------:         |:-----:       |:-----:|gg |
+| Data Scientist Track  | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Scientist.pdf)        | [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 | https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting |
+| Data Analyst Track    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Analyst.pdf)         |  [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 | https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting |
 
-https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting
+
 
 ### CIMA Certificate in Business Accounting
 This is a general business accounting qualification which gives practical skill in the world of business and finance by gaining a solid understanding of fundamental accounting, management and business principles. Subjects studied include:
