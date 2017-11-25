@@ -1,6 +1,6 @@
 # SUMMARY OF THE SPECIFIC QULIFICATION
 
-## DataQUest Datra Analyst and Data Science Tracks
+## DataQuest Data Analyst and Data Science Tracks
 
 ## CareerFoundry Web Developer Certificate
 CareerFoundry is a 6-month intensive training program for web developers, specializing in Ruby on Rails and front-end development. I graduated the program in April 2016.
