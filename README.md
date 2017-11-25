@@ -63,12 +63,7 @@ This was a 4 year degree in chemical engineering including advanced numerical me
 * Period: from 02/2002 to 01/2006
 
 ## CERTIFICATES
-I have completed a variety of certificates in a broad field including technology, finance and project managment. Please see a summary of each certifcate and a link for each certificate:
-
-* [DATAQUEST,inc. Data Scientist Track](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Scientist.pdf)
-* [DATAQUEST,inc. Data Analyst Track](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Analyst.pdf)
-* [CIMA Certificate in Business Accounting](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)
-* [APMP: The APM Project Management Qualification](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/APMPCert.pdf)
+I have completed a variety of certificates in a broad field including technology, finance and project managment. Please table below:
 
 | Qualification | Certificate Link | Issuing Authority | Year | Summary |
 | ------------- | :--------------: | :---------------: |:---: | :-----: |
@@ -77,13 +72,7 @@ I have completed a variety of certificates in a broad field including technology
 | CIMA Certificate in Business Accounting   | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)       |  [CIMA Global](https://www.cimaglobal.com/Qualifications/cert-ba/) | 2013 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting) |
 | APMP: The APM Project Management Qualification    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/APMPCert.pdf)        |  [APM](https://www.apm.org.uk/qualifications-and-training/project-management-qualification/) | 2012 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/README.md#cima-certificate-in-business-accounting) |
 
-### CIMA Certificate in Business Accounting
-This is a general business accounting qualification which gives practical skill in the world of business and finance by gaining a solid understanding of fundamental accounting, management and business principles. Subjects studied include:
-* Fundamentals of Financial Accounting
-* Fundamentals of Management Accounting
-* Fundamentals of Business Mathematics
-* Fundamentals of Business Economics
-* Fundamentals of Ethics, Corporate Governance and Business Law
+
 
 
 Ability to communicate
