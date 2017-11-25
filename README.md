@@ -56,7 +56,16 @@ This is a portfolio of my work of all things related to Web Development:
 • Angular
 • JSON API
 
-## CERTIFICATES
+## QUALIFICATIONS
+### PROFESSIONAL
+I have achived chartered status with the Institute of Chemical Egineering (IChemE) and The Engineering Council is the UK.
+
+| Level | Information | Issuing Authority | Year Achieved |
+| ------------- | :--------------: | :---------------: |:---: |
+| MIChemE  | [link](http://www.icheme.org/membership/member.aspx)        | [IChemE](http://www.icheme.org/)  | 2013 |
+| CEng  | [link](http://www.engc.org.uk/professional-registration/the-professional-titles/chartered-engineer/)        | [Engineering Council](http://www.engc.org.uk/)  | 2013 |
+
+### CERTIFICATES
 I have completed a variety of certificates in a broad field including technology, finance and project managment. 
 
 | Qualification | Certificate Link | Issuing Authority | Year | Summary |
@@ -67,10 +76,10 @@ I have completed a variety of certificates in a broad field including technology
 | CIMA Certificate in Business Accounting   | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)       |  [CIMA Global](https://www.cimaglobal.com/Qualifications/cert-ba/) | 2013 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#cima-certificate-in-business-accounting-ba-cert) |
 | APMP: The APM Project Management Qualification    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/APMPCert.pdf)        |  [APM](https://www.apm.org.uk/qualifications-and-training/project-management-qualification/) | 2012 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#apmp-the-apm-project-management-qualification) |
 
-## QUALIFICATIONS
-I have achieved university level education.
+## EDUCATION
+University level education graduating in 2006.
 
-| Qualification | Location | Issuing Authority | Year | Summary |
+| Qualification | Location | Issuing Authority | Period | Summary |
 | ------------- | :--------------: | :---------------: |:---: | :-----: |
 | BEng Chemical Engineering  | Pretoria, South Africa| [University of Pretoria](http://www.up.ac.za/chemical-engineering) | 02/2002-01/2006 |  [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#beng-chemical-engineering) |
 
