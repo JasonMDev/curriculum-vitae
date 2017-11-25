@@ -26,15 +26,7 @@ I am currently looking for opportunities in Data Science, especially where my st
 * For more detail of this experience please refer to my LinkeIn profile [here](https://www.linkedin.com/in/jasonmans/).
 
 ## PORTFOLIO OF WORK
-### Data Science
-Completed the Dataquest.io certificates for Data Analyst and Data Science. Currently spending time researching personal projects. This is a portfolio of my work of all things related to Data Scince:
 * [Data Science](https://github.com/JasonMDev/portfolio-datascience)
-
-### Web Development
-• General web development with Ruby on Rails Model-View-Controller (MVC) web framework
-• Responsive, single-page web pages 
-• An interactive sites implementing HTML5 elements alongside JavaScript and jQuery for development 
-This is a portfolio of my work of all things related to Web Development:
 * [Web Development](https://github.com/JasonMDev/portfolio-web-development)
 
 ## SKILLS
