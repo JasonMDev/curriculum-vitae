@@ -8,18 +8,23 @@ I am Self-starter and thrive in creative environments, where ideas are encourage
 
 I am currently looking for opportunities in Data Science, especially where my strength in picking up new technologies will be appreciated as well as beeing able to add value to the business and team. I have worked mostly in project environments and have developed an aptitude in understanding client’s specification and translating that into a successful implementation of the product or service required by the client. I enjoy the idea of finding answers to difficult questions and transforming boundaries and challenges into opportunities.
 
-## Skills
+## Portfolio of Work
 ### Data Science
-* Topic 1
-* Topic 2
+### Web Development
 
-### Web Devlopment
-* Topic 1
-* Topic 2
+## Skills
+### GOOD WITH:
+• Python
+• Pandas
+• SciKit
+• NumPy.
 
-### Complementary Skills
-* Topic 1
-* Topic 2
+### WORKED WITH:
+• Predictive Analytics
+• Machine Learning
+
+### DABBLED IN:
+• Kaggle Competitions
 
 ## Qualifcations
 ### BEng Chemical Engineering
