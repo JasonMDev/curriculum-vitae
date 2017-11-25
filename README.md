@@ -58,36 +58,20 @@ This is a portfolio of my work of all things related to Web Development:
 
 ## QUALIFICATIONS
 ### BEng Chemical Engineering [02/2002 -01/2006]
+This was a 4 year degree in chemical engineering including advanced numerical methods, calculus and statistics.
 * Location: Pretoria, South Africa
 * Period: from 02/2002 to 01/2006
-This was a 4 year degree in chemical engineering including advanced numerical methods, calculus and statistics.
-
-### BEng Chemical Engineering
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac turpis non tortor vehicula dictum et auctor sem. Fusce neque libero, tempor eget semper ac, feugiat quis orci. Integer hendrerit sit amet lacus rutrum mattis. Fusce leo sem, efficitur non mauris non, ultrices viverra elit. Aliquam erat volutpat. Sed risus est, dignissim ut sapien vel, volutpat vehicula tellus. 
-
-* Topic 1
-* Topic 2
-
-### BEng Chemical Engineering
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac turpis non tortor vehicula dictum et auctor sem. Fusce neque libero, tempor eget semper ac, feugiat quis orci. Integer hendrerit sit amet lacus rutrum mattis. Fusce leo sem, efficitur non mauris non, ultrices viverra elit. Aliquam erat volutpat. Sed risus est, dignissim ut sapien vel, volutpat vehicula tellus. 
-
-* Topic 1
-* Topic 2
 
 ## CERTIFICATES
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac turpis non tortor vehicula dictum et auctor sem. Fusce neque libero, tempor eget semper ac, feugiat quis orci. Integer hendrerit sit amet lacus rutrum mattis. Fusce leo sem, efficitur non mauris non, ultrices viverra elit. Aliquam erat volutpat. Sed risus est, dignissim ut sapien vel, volutpat vehicula tellus. Donec vel arcu libero. Nam ut interdum leo, a auctor ligula. Phasellus tincidunt ex arcu, ac accumsan velit placerat in. Sed laoreet dignissim ultricies. Morbi egestas sollicitudin magna. Ut in lacus at magna fringilla sollicitudin sit amet id lacus.
+I have completed a variety of certificates in a broad field including technology, finance and project managment. Please see a summary of each certifcate and a link for each certificate:
 
-Fundamentals	of	Management	Accounting
- Fundamentals	of	Financial	Accounting
-PROJECTS
-Bike	Basingstoke	Web	App
-r 01/2016	-	04/2016
-5 https://bikebasingstokerailsdemo.herokuapp.com/
-A	eCommerce	that	allows	users	to	make	
-purchases	on	products	as	well	as	rate	them.
- Fundamentals	of	Business	Mathematics
- Fundamentals	of	Business	Economics
- Fundamentals	of	Ethics,	Corporate	Governance	and	Business	Law
+### Fundamentals	of	Management	Accounting [Link to certificate](https://github.com/JasonMDev/portfolio-web-development)
+This is a general business accounting qualification which gives practical skill in the world of business and finance by gaining a solid understanding of fundamental accounting, management and business principles. Subjects studied include:
+* Fundamentals of Financial Accounting
+* Fundamentals of Management Accounting
+* Fundamentals of Business Mathematics
+* Fundamentals of Business Economics
+* Fundamentals of Ethics, Corporate Governance and Business Law
 
 
 Ability to communicate
