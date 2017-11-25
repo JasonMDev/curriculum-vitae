@@ -5,7 +5,7 @@ I am a Business Analyst embedded within the Fluor Knowledge Mangement (KM) Team.
 
 I also a Chartered Chemical Engineer with more than 10 years of experience in the Oil and Gas industry, and looking to transition into software development. My experience ranges from process design, process simulations, project engineering, pre-commissioning, commissioning and start-ups. I have acquired programming skills in Data Science with a focus on python. I also have supplementary web development skills focusing on Ruby on Rails. View my portfolio for more details.
 
-I am good communicator and collaborator with others in the team, as well as good at reasoning and telling stories using the data. 
+I am good communicator and collaborator with others in the team, as well as good at reasoning and telling stories using data. 
 
 I am self-starter and thrive in creative environments, where ideas are encouraged and shared. Building products that add value to users and to me as a developer is critical to my work. 
 
