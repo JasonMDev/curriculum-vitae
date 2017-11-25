@@ -1,6 +1,20 @@
 # SUMMARY OF THE SPECIFIC QULIFICATION
 
 ## DataQuest Data Analyst and Data Science Tracks
+This is a self-paced online course hosted by DataQuest Labs, inc. 
+The course includes the following:
+* Manipulate and analyze data
+* Make inferences and predictions from data.
+* Program in popular data science languages
+* Clean and visualize data
+* Make predictions use statistics and machine learning
+* Collaboration tools like git and SQL databases
+
+
+Basic and intermediate programming concepts
+How to clean and visualize data
+Probability and statistics for data analysis
+Collaboration tools like git and SQL databases
 
 ## CareerFoundry Web Developer Certificate
 CareerFoundry is a 6-month intensive training program for web developers, specializing in Ruby on Rails and front-end development. I graduated the program in April 2016.
