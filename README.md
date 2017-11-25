@@ -64,8 +64,11 @@ This was a 4 year degree in chemical engineering including advanced numerical me
 
 ## CERTIFICATES
 I have completed a variety of certificates in a broad field including technology, finance and project managment. Please see a summary of each certifcate and a link for each certificate:
+* [CIMA Certificate in Business Accounting](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)
+* [CIMA Certificate in Business Accounting](https://github.com/JasonMDev/curriculum-vitae/certificates/JasonMansCIMABusinessCert.pdf)
 
-### Fundamentals	of	Management	Accounting [Link to certificate](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/JasonMansCIMABusinessCert.pdf)
+
+### CIMA Certificate in Business Accounting
 This is a general business accounting qualification which gives practical skill in the world of business and finance by gaining a solid understanding of fundamental accounting, management and business principles. Subjects studied include:
 * Fundamentals of Financial Accounting
 * Fundamentals of Management Accounting
