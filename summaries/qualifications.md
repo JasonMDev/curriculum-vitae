@@ -2,6 +2,7 @@
 
 ## DataQuest Data Analyst and Data Science Tracks
 This is a self-paced online course hosted by DataQuest Labs, inc. 
+
 The course includes the following:
 * Basic and intermediate programming concepts
 * Manipulate and analyze data
@@ -11,12 +12,6 @@ The course includes the following:
 * Make predictions use statistics and machine learning
 * Collaboration tools like git and SQL databases
 * Probability and statistics for data analysis
-
-
-
-How to clean and visualize data
-Probability and statistics for data analysis
-Collaboration tools like git and SQL databases
 
 ## CareerFoundry Web Developer Certificate
 CareerFoundry is a 6-month intensive training program for web developers, specializing in Ruby on Rails and front-end development. I graduated the program in April 2016.
