@@ -1,4 +1,6 @@
-# Curriculum Vitae
+# CURRICULUM VITA
+
+## Summary
 
 I am a Process Engineer with more than 10 years of experience in the Oil and Gas industry, and looking to transition into software development. My experience ranges from process design, process simulations, project engineering, pre-commissioning, commissioning and start-ups. I have acquired programming skills in Data Science with a focus on python. I also have supplementary web development skills focusing on Ruby on Rails. View my portfolio for more details.
 
