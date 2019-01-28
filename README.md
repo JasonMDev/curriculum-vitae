@@ -32,7 +32,7 @@ I am currently looking for opportunities in Data Science, especially where my st
 ## SKILLS
 ### Data Science Specific Skills
 | Good With             | Worked With             | Dabbled In           |
-| --------------------- | :---------------------: | :------------------: |
+| :-------------------- | :---------------------- | :------------------- |
 | Python                | Machine Learning        | Kaggle Competitions  |
 | SQL                   | Linux and Command Line  | R                    |
 | Jupyter NoteBook      | Data Visualization      | SciKit-Learn         |
@@ -42,7 +42,7 @@ I am currently looking for opportunities in Data Science, especially where my st
 
 ### Web Development Specific Skills
 | Good With                                  | Worked With                       | Dabbled In |
-| ------------------------------------------ | :-------------------------------: | :--------: |
+| :----------------------------------------- | :-------------------------------- | :--------- |
 | MVC Frameworks: Ruby on Rails              | APIs such as Google Maps          | AJAX       |
 | Web Technologies: HTML5, CSS3              | Test Driven Development           | Angular    |
 | Front-end framework: Bootstrap             | Behavior Driven Development       | JSON API   |
@@ -54,9 +54,7 @@ I am currently looking for opportunities in Data Science, especially where my st
 I have completed a variety of certificates in a broad field including technology, finance and project managment. 
 
 | Qualification | Certificate Link | Issuing Authority | Year | Summary |
-| :------------- | :--------------: | :---------------: |:---: | :-----: |
-| Data Quest |
-| :--------------- |
+| :------------ | :--------------: | :---------------: | :--: | :-----: |
 | DQ Data Scientist Track  | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Scientist.pdf)        | [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 |  [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#dataquest-data-analyst-and-data-science-tracks) |
 | DQ Data Analyst Track    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Analyst.pdf)         |  [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#dataquest-data-analyst-and-data-science-tracks) |
 | CF Web Developer Certificate    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/CareerFoundry_Certificate_JASONMANS.pdf)         |  [CareerFoundry](https://careerfoundry.com/en/courses/become-a-web-developer) | 2016 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#careerfoundry-web-developer-certificate) |
@@ -67,7 +65,7 @@ I have completed a variety of certificates in a broad field including technology
 I have achieved chartered status with the Institute of Chemical Egineering (IChemE) and The Engineering Council is the UK.
 
 | Level | Information | Issuing Authority | Year Achieved |
-| ------------- | :--------------: | :---------------: |:---: |
+| :---- | :---------- | :---------------- |:------------- |
 | MIChemE  | [link](http://www.icheme.org/membership/member.aspx)        | [IChemE](http://www.icheme.org/)  | 2013 |
 | CEng  | [link](http://www.engc.org.uk/professional-registration/the-professional-titles/chartered-engineer/)        | [Engineering Council](http://www.engc.org.uk/)  | 2013 |
 
