@@ -55,6 +55,7 @@ I have completed a variety of certificates in a broad field including technology
 
 | Qualification | Certificate Link | Issuing Authority | Year | Summary |
 | ------------- | :--------------: | :---------------: |:---: | :-----: |
+| Data Quest ---------- |
 | DQ Data Scientist Track  | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Scientist.pdf)        | [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 |  [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#dataquest-data-analyst-and-data-science-tracks) |
 | DQ Data Analyst Track    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/DQ-Track-Data-Analyst.pdf)         |  [Dataquest Labs, Inc.](https://www.dataquest.io/) | 2017 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#dataquest-data-analyst-and-data-science-tracks) |
 | CF Web Developer Certificate    | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/certificates/CareerFoundry_Certificate_JASONMANS.pdf)         |  [CareerFoundry](https://careerfoundry.com/en/courses/become-a-web-developer) | 2016 | [link](https://github.com/JasonMDev/curriculum-vitae/blob/master/summaries/qualifications.md#careerfoundry-web-developer-certificate) |
