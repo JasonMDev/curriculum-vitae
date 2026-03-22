@@ -17,21 +17,21 @@ I am currently looking for opportunities in Data Science, especially where my st
 ## EXPERIENCE
 
 ### Data & Business Analys | IPRS PFAS
-#### SEP 2025 - current
+#### [ SEP 2025 - current ]
 * TODO 
 
 ### Deloite Consultant - Digital Catlyst | Major Programmes
-#### JUN 2022 - FEB 2025
+#### [ JUN 2022 - FEB 2025 ]
 * TODO
 
 ### KM Business Analyst
-####  OCT 2017 - JUN 2022
+####  [ OCT 2017 - JUN 2022 ]
 * A role within the Fluor Knowledge Mangement (KM) Team dedicated to Business Development and Data Analysis utilising the myriad and vast data generate by Fluor's knowledge communities. By aggregating various sources of data we can gain insights into the knowledge sharing behaviours of the employees and use this information to foster and promote further knowledge growth.
 * Cleaned up KM PaceSetter Data to dertermine an objective way of deciding the winners by looking at their forum activity, knowledge sharing, community engagement and network size. This is done to get an idea of the impact they have on others and the comapany as a whole regarding their contribution to the overall growth of the companies collective knowledge. 
 * Cleaned up Quality Day Survey Data to make it easier to group the responses by office location and discipline such that manager could make a clearer intepretation of the results.
 
 ### Process Engineer
-#### FEB 2006 - SEP 2017
+#### [ FEB 2006 - SEP 2017 ]
 * Chartered Chemical Engineer  
 * Over 10 years of experience in the Oil and Gas industry
 * Specified equipment for Oil and Gas separation plants. This included simulations to determine the most economical solution	for the client.
