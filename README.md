@@ -20,7 +20,7 @@ I am currently looking for opportunities in Data Science, especially where my st
 #### [ SEP 2025 - current ]
 * TODO 
 
-### Deloite Consultant - Digital Catlyst | Major Programmes
+### Deloite Consultant - Digital Catalyst | Major Programmes
 #### [ JUN 2022 - FEB 2025 ]
 * TODO
 
