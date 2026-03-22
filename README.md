@@ -1,8 +1,10 @@
 # CURRICULUM VITAE
 ## SUMMARY
 
-I am a Business Analyst embedded within the Fluor Knowledge Mangement (KM) Team.
-UPDATED: 2025/02/25
+UPDATED: 2026/03/23
+
+
+I am a Data & Business Analyst embedded within IPRS PFAS data team.
 
 I also a Chartered Chemical Engineer with more than 10 years of experience in the Oil and Gas industry, and looking to transition into software development. My experience ranges from process design, process simulations, project engineering, pre-commissioning, commissioning and start-ups. I have acquired programming skills in Data Science with a focus on python. I also have supplementary web development skills focusing on Ruby on Rails. View my portfolio for more details.
 
@@ -13,14 +15,23 @@ I am self-starter and thrive in creative environments, where ideas are encourage
 I am currently looking for opportunities in Data Science, especially where my strength in picking up new technologies will be appreciated as well as beeing able to add value to the business and team. I have worked mostly in project environments and have developed an aptitude in understanding client’s specification and translating that into a successful implementation of the product or service required by the client. I enjoy the idea of finding answers to difficult questions and transforming boundaries and challenges into opportunities.
 
 ## EXPERIENCE
+
+### Data & Business Analys | IPRS PFAS
+#### SEP 2025 - current
+* TODO 
+
+### Deloite Consultant - Digital Catlyst | Major Programmes
+#### JUN 2022 - FEB 2025
+* TODO
+
 ### KM Business Analyst
-* OCT 2017 - ongoing
+####  OCT 2017 - JUN 2022
 * A role within the Fluor Knowledge Mangement (KM) Team dedicated to Business Development and Data Analysis utilising the myriad and vast data generate by Fluor's knowledge communities. By aggregating various sources of data we can gain insights into the knowledge sharing behaviours of the employees and use this information to foster and promote further knowledge growth.
 * Cleaned up KM PaceSetter Data to dertermine an objective way of deciding the winners by looking at their forum activity, knowledge sharing, community engagement and network size. This is done to get an idea of the impact they have on others and the comapany as a whole regarding their contribution to the overall growth of the companies collective knowledge. 
 * Cleaned up Quality Day Survey Data to make it easier to group the responses by office location and discipline such that manager could make a clearer intepretation of the results.
 
 ### Process Engineer
-* FEB 2006 - SEP 2017
+#### FEB 2006 - SEP 2017
 * Chartered Chemical Engineer  
 * Over 10 years of experience in the Oil and Gas industry
 * Specified equipment for Oil and Gas separation plants. This included simulations to determine the most economical solution	for the client.
